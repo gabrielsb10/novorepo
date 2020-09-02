@@ -1,2 +1,1 @@
- print (  Hello World )
-print('Olha esta nova funcionalidade')
+print('Ola Mundo')
